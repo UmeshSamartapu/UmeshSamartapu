@@ -29,7 +29,7 @@
 
 ## 🏆 Achievements
 
-- 1st Place at Tech Fest 2024 Hackathon 🏅
+- 1st Place at Tech Fest 2024 Hackathon at Avanthi Institute of Engineering & Technology (hyd)🏅
 
 ## 📈 GitHub Stats
 
