@@ -40,10 +40,10 @@
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-twitter/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:umeshsamartapu@gmail.com)
-
+[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/umesh-samartapu-42793025a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![Twitter](https://x.com/umeshsamartapu?t=graUTdTs4QlUc3a5OOH7hA&s=09)
+[![Email](umeshsamartapu@gmail.com)](mailto:umeshsamartapu@gmail.com)
+[![instagram](https://www.instagram.com/umeshsamartapu?igsh=MWsxbWVzbHd0bDgyag==)]
 ---
 
 🔥 Always exploring new technologies and solving real-world problems with code!
